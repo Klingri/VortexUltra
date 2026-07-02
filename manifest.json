@@ -5,7 +5,7 @@
   "description": "Enhances Vortex profiles with modern UI and extra features.",
   "content_scripts": [
     {
-      "matches": ["https://vortex.towerstats.com/users/*"],
+      "matches": ["https://playvortex.io/users/*"],
       "css": ["styles.css"],
       "js": ["content.js"]
     }
