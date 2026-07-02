@@ -3,3 +3,6 @@ Vortex Ultra is a specialized non-general purpose Web Extension for the Platform
 
 # What does it add?
 - BETTER PROFILES!
+
+# Discontinuation
+On July 4th 2026, VortexUltra extension will no longer be updated and no longer receive any support. the extension will be merged with Vortex Pro by then.
